@@ -4,7 +4,7 @@ import chang.formbinding.modelform.UserRegModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-
+//跟資料庫溝通的地方
 @Repository
 public class EventUserDAO {
     @Autowired
